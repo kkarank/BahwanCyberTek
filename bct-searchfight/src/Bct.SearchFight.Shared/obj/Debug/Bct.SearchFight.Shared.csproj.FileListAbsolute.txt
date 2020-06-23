@@ -1,0 +1,16 @@
+C:\bct-searchfight-master\src\Bct.SearchFight.Shared\bin\Debug\Bct.SearchFight.Shared.dll
+C:\bct-searchfight-master\src\Bct.SearchFight.Shared\bin\Debug\Bct.SearchFight.Shared.pdb
+C:\bct-searchfight-master\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.csproj.CoreCompileInputs.cache
+C:\bct-searchfight-master\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.dll
+C:\bct-searchfight-master\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.pdb
+C:\bct-searchfight\src\Bct.SearchFight.Shared\bin\Debug\Bct.SearchFight.Shared.dll
+C:\bct-searchfight\src\Bct.SearchFight.Shared\bin\Debug\Bct.SearchFight.Shared.pdb
+C:\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.csproj.CoreCompileInputs.cache
+C:\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.dll
+C:\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.pdb
+\\tcsdatacifs09.corp.trizetto.com\citrixprofiles\karunakaran.kuppusam.upm\DATA\Downloads\bct-searchfight\bct-searchfight\src\Bct.SearchFight.Shared\bin\Debug\Bct.SearchFight.Shared.dll
+\\tcsdatacifs09.corp.trizetto.com\citrixprofiles\karunakaran.kuppusam.upm\DATA\Downloads\bct-searchfight\bct-searchfight\src\Bct.SearchFight.Shared\bin\Debug\Bct.SearchFight.Shared.pdb
+\\tcsdatacifs09.corp.trizetto.com\citrixprofiles\karunakaran.kuppusam.upm\DATA\Downloads\bct-searchfight\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.csprojAssemblyReference.cache
+\\tcsdatacifs09.corp.trizetto.com\citrixprofiles\karunakaran.kuppusam.upm\DATA\Downloads\bct-searchfight\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.csproj.CoreCompileInputs.cache
+\\tcsdatacifs09.corp.trizetto.com\citrixprofiles\karunakaran.kuppusam.upm\DATA\Downloads\bct-searchfight\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.dll
+\\tcsdatacifs09.corp.trizetto.com\citrixprofiles\karunakaran.kuppusam.upm\DATA\Downloads\bct-searchfight\bct-searchfight\src\Bct.SearchFight.Shared\obj\Debug\Bct.SearchFight.Shared.pdb
